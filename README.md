@@ -1,5 +1,6 @@
 ## About Me
 Hi, I'm **Aschalew Getahun** 👋  
+I’m someone who combines creative thinking with coding — I explore ideas and bring them to life through code.
 
 - I enjoy solving problems 💡  
 - Exploring new ideas and projects ⚡  
