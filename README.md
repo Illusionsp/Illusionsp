@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python Developer | Web Scraping · Automation · n8n · AI Workflows  <br>Full Stack Python Engineer | AI & Automation
+ AI/ML Engineer
 
 
 ## 🌐 Socials:
