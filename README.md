@@ -1,8 +1,6 @@
-Hi, I'm Aschalew 👋
+Hi, I'm **Aschalew** 👋
 
 🤖 **AI Engineer | LLM Agents, Advanced Web Scraping & RAG Pipelines**
-
-Python LangChain LlamaIndex LangGraph CrewAI Playwright Scrapy Selenium Pinecone ChromaDB Milvus Qdrant OpenAI Claude Llama 3
 
 **What I Build**
 
@@ -20,3 +18,15 @@ If you have a complex web data source and want to transform it into a powerful A
 **Connect**
 
 [LinkedIn](https://linkedin.com/in/aschalew-getahun-435b7032a) · [X](https://x.com/@AschalewGe813) · [Email](mailto:aschalewgetahun238@gmail.com)
+
+**Stack**
+
+- **Languages:** Python, JavaScript, TypeScript, SQL, Bash
+- **AI/LLM:** LangChain, LlamaIndex, LangGraph, CrewAI, OpenAI (GPT-4o), Anthropic (Claude 3.5), Llama 3 (Groq/Ollama), RAG, AI Agents, LLM Orchestration
+- **Vector Databases:** Pinecone, ChromaDB, Milvus, Qdrant
+- **Web Scraping:** Playwright, Scrapy, Selenium, Beautiful Soup
+- **Backend:** FastAPI, Django, Flask, Node.js
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Databases:** PostgreSQL, Supabase, Firebase
+- **ML/Data:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, SciPy, Matplotlib
+- **DevOps:** Docker, Linux, GitHub Actions, Vercel
