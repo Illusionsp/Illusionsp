@@ -21,7 +21,7 @@ If you have a complex web data source and want to transform it into a powerful A
 
 **Stack**
 
-- **Languages:** Python, JavaScript, TypeScript, SQL, Bash
+- **Languages:** Python, JavaScript, TypeScript
 - **AI/LLM:** LangChain, LlamaIndex, LangGraph, CrewAI, OpenAI (GPT-4o), Anthropic (Claude 3.5), Llama 3 (Groq/Ollama), RAG, AI Agents, LLM Orchestration
 - **Vector Databases:** Pinecone, ChromaDB, Milvus, Qdrant
 - **Web Scraping:** Playwright, Scrapy, Selenium, Beautiful Soup
