@@ -4,10 +4,10 @@ Hi, I'm **Aschalew** 👋
 
 **What I Build**
 
-- 🧠 **RAG Pipelines** — Semantic chunking, hybrid search (keyword + vector), and re-ranking for zero-hallucination LLM context
-- 🤖 **Autonomous LLM Agents** — Multi-agent workflows with tool use, web-browsing, and custom function calling
-- 🕷️ **Resilient Web Scrapers** — Scalable pipelines handling dynamic SPAs, login walls, session states, and Cloudflare/CAPTCHA bypass
-- ⚙️ **End-to-End AI Systems** — From raw web data extraction to production-ready, domain-specific AI applications
+-  **RAG Pipelines** — Semantic chunking, hybrid search (keyword + vector), and re-ranking for zero-hallucination LLM context
+-  **Autonomous LLM Agents** — Multi-agent workflows with tool use, web-browsing, and custom function calling
+-  **Resilient Web Scrapers** — Scalable pipelines handling dynamic SPAs, login walls, session states, and Cloudflare/CAPTCHA bypass
+-  **End-to-End AI Systems** — From raw web data extraction to production-ready, domain-specific AI applications
 
 **How I Work**
 
