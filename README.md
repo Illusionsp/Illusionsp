@@ -25,8 +25,8 @@ If you have a complex web data source and want to transform it into a powerful A
 - **AI/LLM:** LangChain, LlamaIndex, LangGraph, CrewAI, OpenAI (GPT-4o), Anthropic (Claude 3.5), Llama 3 (Groq/Ollama), RAG, AI Agents, LLM Orchestration
 - **Vector Databases:** Pinecone, ChromaDB, Milvus, Qdrant
 - **Web Scraping:** Playwright, Scrapy, Selenium, Beautiful Soup
-- **Backend:** FastAPI, Django, Flask, Node.js
+- **Backend:** FastAPI, Django, Flask
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 - **Databases:** PostgreSQL, Supabase, Firebase
 - **ML/Data:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, SciPy, Matplotlib
-- **DevOps:** Docker, Linux, GitHub Actions, Vercel
+- **DevOps:** Docker, Linux
